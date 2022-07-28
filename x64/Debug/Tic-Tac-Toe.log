@@ -1,0 +1,13 @@
+﻿  game.c
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(13,2): warning C4013: “printf_game”未定义；假设外部返回 int
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(66,8): warning C4013: “time”未定义；假设外部返回 int
+  main.c
+  正在生成代码...
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(145): warning C4716: “game”: 必须返回一个值
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(38): warning C4716: “printf_game”: 必须返回一个值
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(61): warning C4716: “human_in”: 必须返回一个值
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(78): warning C4716: “comp_in”: 必须返回一个值
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(116): warning C4715: “judge_game”: 不是所有的控件路径都返回值
+D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\game.c(14): warning C4716: “init_game”: 必须返回一个值
+  Tic-Tac-Toe.vcxproj -> D:\Visual Studio 2022\Git_C\Tic-Tac-Toe\x64\Debug\Tic-Tac-Toe.exe
